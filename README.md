@@ -30,25 +30,4 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/calculator-app-using-scss-and-vanillajs-xAbyyMlas](https://www.frontendmentor.io/solutions/calculator-app-using-scss-and-vanillajs-xAbyyMlas)
-- Live Site URL: [https://calculator-app-sooty-ten.vercel.app/](https://calculator-app-sooty-ten.vercel.app/)
-
-## My process
-
-### Built with
-
-- CSS custom properties
-- Sass
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- JavaScript
-
-### Useful resources
-
-- [JavaScript Web Projects: 20 Projects to Build Your Portfolio course](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) - This course was a great help to me for building the JavaScript logic of a calculator, and also gave me enough knowledge to implement 3 different color themes. I really liked this pattern and will use it going forward.
-
-## Author
-
-- Frontend Mentor - [@hebaghazali](https://www.frontendmentor.io/profile/hebaghazali)
-- LinkedIn - [@hebaghazali](https://www.linkedin.com/in/hebaghazali/)
+- Live Site URL: https://snipersnoop.github.io/calculator/
